@@ -1,81 +1,84 @@
 <p align="center">
-  <img src="./assets/name-banner.gif" alt="Jeremy Landaeta Matrix banner" width="100%" />
+  <a href="https://jlandaeta.dev"><img src="./assets/banner.svg" alt="Jeremy Landaeta Lizama — Software Developer. Interfaces, sistemas e IA aplicada. React, Next.js y TypeScript." width="100%" /></a>
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1400&color=00FF41&center=true&vCenter=true&width=980&lines=Software+Developer;Web+Development+%7C+Automation+%7C+AI+Integrations;Building+useful+digital+products"
-    alt="Typing SVG"
-  />
+  <a href="https://jlandaeta.dev"><img src="https://img.shields.io/badge/Portafolio-jlandaeta.dev-ff7a1a?style=for-the-badge&labelColor=16233a" alt="Portafolio: jlandaeta.dev" /></a>
+  <a href="https://www.linkedin.com/in/jeremy-landaeta-lizama-04b266223/"><img src="https://img.shields.io/badge/LinkedIn-16233a?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:jlandaetalizama22@gmail.com"><img src="https://img.shields.io/badge/Email-16233a?style=for-the-badge" alt="Email" /></a>
+  <a href="https://jlandaeta.dev/cv-es.pdf"><img src="https://img.shields.io/badge/CV-16233a?style=for-the-badge" alt="Descargar CV" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PLAYER-online-0f0f0f?style=for-the-badge&logo=ghost&logoColor=00FF41" alt="player online" />
-  <img src="https://img.shields.io/badge/CLASS-software%20developer-0f0f0f?style=for-the-badge&logo=github&logoColor=00FF41" alt="class" />
-  <img src="https://img.shields.io/badge/BUILD-web%20%2B%20automation%20%2B%20ai-0f0f0f?style=for-the-badge&logo=vercel&logoColor=00FF41" alt="build" />
+  Construyo productos digitales de principio a fin: interfaces, reglas de negocio, integraciones e IA cuando resuelve un problema real.
 </p>
 
----
-
-## 🕹️ Player Card
-
-```txt
-Name: Jeremy Landaeta
-Class: Software Developer
-Build: Web Development / Automation / AI Integrations
-Status: Building, learning, improving
-Next Level: Fullstack Growth
-```
-
-## ⚔️ About Me
-
-I'm a software developer focused on building web products and practical digital solutions.
-
-My main experience has been around JavaScript and TypeScript ecosystems, especially with React, Next.js and modern UI development. I’m also interested in automation, AI integrations and software ideas that solve real problems.
+## 🕹️ Ficha de personaje
 
 <p align="center">
-  <img src="./assets/player-room.gif" alt="Player room gif" width="70%" />
+  <a href="https://jlandaeta.dev/es#perfil"><img src="./assets/ficha.svg" alt="Ficha de personaje de Jeremy Landaeta Lizama. Software Developer: Frontend, Full Stack e IA. GreenSoft desde 2025. Santiago, Chile. Ingeniero en Informática, Duoc UC. Español e inglés (TOEIC 805). Fuera del código: lucha libre, Mitos y Leyendas, gaming, gym, series y bebida energética." width="100%" /></a>
 </p>
 
-## 📊 Core Stats
-
-```txt
-Web Development      ██████████░
-Frontend             █████████░░
-Automation           ████████░░░
-AI Integrations      ████████░░░
-Backend              ██████░░░░░
-Databases            █████░░░░░░
-```
-
-## 🧩 Main Quests
-
-- Building landing pages and product websites with a strong focus on clarity, responsiveness and presentation
-- Exploring automation workflows and AI-assisted integrations
-- Growing toward a stronger fullstack profile through real projects
-
-## 🎒 Toolkit
-
-`JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`  
-`OpenAI API` `AI Integrations` `Automation Workflows`  
-`Node.js` `Express` `Python` `Prisma`  
-`Angular` `MongoDB` `Databases` *(currently upgrading)*
-
-## 📡 Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jeremy-landaeta-lizama-04b266223/">
-    <img src="https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jlandaetalizama22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f0f0f?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" />
-  </a>
-</p>
+## 📜 Bitácora de misiones
 
 <p align="center">
-  <img src="./assets/footer.gif" alt="Footer gif" width="100%" />
+  <a href="https://jlandaeta.dev/es#experiencia"><img src="./assets/bitacora.svg" alt="Bitácora de misiones en GreenSoft, de junio de 2025 a la actualidad, como Frontend y Software Developer. 0 Carbono: todo el frontend, en producción. EcoREP: archivos y tablas con filtros, en producción. Asistente Ley REP: backend de WhatsApp con DeepSeek, en producción. Dixta: de noticias a borradores con IA, en pausa. tu-dominio.cl: de punta a punta con Mercado Pago, completado. Misión en curso: plataformas ambientales, automatizaciones e integraciones." width="100%" /></a>
 </p>
 
-```txt
-Still building. Still learning. Still growing. Seguimos subiendo de nivel.
-```
+Antes de GreenSoft: [BaoBlue](https://jlandaeta.dev/es/proyectos/baoblue) como freelance (2025), [LEXY](https://jlandaeta.dev/es/proyectos/lexy) como proyecto de título (2024–2025) y práctica profesional en PwC Chile, área de Assurance (2024).
+
+## 🧩 Proyectos
+
+<table>
+  <tr>
+    <td colspan="2">
+      <a href="https://jlandaeta.dev/es/proyectos/fcc"><img src="./assets/proyectos/fcc.svg" alt="Animación retro de Financial Control Center: del saldo líquido se descuentan el ahorro y lo comprometido, y queda el disponible real" width="100%" /></a><br />
+      <a href="https://jlandaeta.dev/es/proyectos/fcc"><b>Financial Control Center</b></a> · en desarrollo<br />
+      Dominio financiero, arquitectura y producto<br />
+      <code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Better Auth</code> <code>Vitest</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://jlandaeta.dev/es/proyectos/orbix"><img src="./assets/proyectos/ley-rep.svg" alt="Chat animado del Asistente de Ley REP: responde una consulta y deriva una cotización al equipo comercial" width="100%" /></a><br />
+      <a href="https://jlandaeta.dev/es/proyectos/orbix"><b>Asistente de Ley REP</b></a> · en producción · <a href="https://leyrep.cl">leyrep.cl</a><br />
+      Atención por WhatsApp con IA<br />
+      <code>Laravel</code> <code>DeepSeek</code> <code>WhatsApp Cloud API</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://jlandaeta.dev/es/proyectos/baoblue"><img src="./assets/proyectos/baoblue.svg" alt="Animación retro de BaoBlue: un cursor recorre el catálogo de aros y se enciende el botón para hablar por WhatsApp" width="100%" /></a><br />
+      <a href="https://jlandaeta.dev/es/proyectos/baoblue"><b>BaoBlue</b></a> · en producción · <a href="https://baoblue-web.vercel.app">Demo</a> · <a href="https://github.com/JeremyLandaeta/baoblue-web">Código</a><br />
+      Landing de marca y catálogo artesanal<br />
+      <code>Next.js</code> <code>Tailwind CSS</code> <code>Framer Motion</code>
+    </td>
+  </tr>
+</table>
+
+Más casos de estudio en el portafolio:
+
+- [Dixta](https://jlandaeta.dev/es/proyectos/dixta) · pipeline editorial con IA y revisión humana
+- [0 Carbono · EcoREP](https://jlandaeta.dev/es/proyectos/greensoft) · interfaces para operaciones ambientales
+- [LEXY](https://jlandaeta.dev/es/proyectos/lexy) · chatbot legal + backoffice
+- [tu-dominio.cl](https://jlandaeta.dev/es/proyectos/pagos) · venta de dominios con Mercado Pago
+- [Anrra](https://jlandaeta.dev/es/proyectos/anrra) · mockup de landing para productos en madera
+- [jlandaeta.dev](https://jlandaeta.dev/es/proyectos/portfolio) · el portafolio, con identidad RPG
+
+## 🎒 Inventario
+
+<p align="center">
+  <img src="./assets/inventario.svg" alt="Inventario: React, Next.js, TypeScript y Tailwind CSS como especialidad; Laravel, PostgreSQL, MySQL, DeepSeek, Prisma, Framer Motion, Python, MongoDB, OpenAI, Agentes IA y Mercado Pago en proyectos; explorando NestJS, n8n y Ollama" width="100%" />
+</p>
+
+<details>
+<summary>Stack completo en texto</summary>
+
+- **Especialidad:** `React` `Next.js` `TypeScript` `Tailwind CSS`
+- **En proyectos:** `Laravel` `Python` `PostgreSQL` `MySQL` `MongoDB` `Prisma` `Framer Motion` `DeepSeek` `OpenAI` `Agentes IA` `Mercado Pago`
+- **Herramientas:** `Material UI` `Ant Design` `PHP` `REST APIs` `SQL Server` `Docker` `GitHub` `ApiDOG` `Power BI` `Bitrix24` `Claude`
+- **Explorando:** `NestJS` `n8n` `Ollama`
+
+</details>
+
+<p align="center">
+  <img src="./assets/footer.svg" alt="Seguimos subiendo de nivel. Forjado en Santiago, Chile." width="100%" />
+</p>
